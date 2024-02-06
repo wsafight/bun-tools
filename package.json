@@ -1,0 +1,11 @@
+{
+    "name": "bun-tools",
+    "bin": {
+        "bt": "./cli.js"
+    },
+    "dependencies": {
+        "yargs": "17.7.2",
+        "root-check": "2.0.0",
+        "user-home": "3.0.0"
+    }
+}
